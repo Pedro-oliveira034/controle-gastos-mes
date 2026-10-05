@@ -1,0 +1,27 @@
+# Dependências do Node.js
+
+node_modules/
+
+# Arquivos gerados
+
+dist/
+coverage/
+
+# Variáveis de ambiente e segredos
+
+.env
+.env.*
+
+# Logs
+
+*.log
+npm-debug.log*
+
+# Arquivos temporários e do sistema
+
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VSCode
+
+.vscode/*
